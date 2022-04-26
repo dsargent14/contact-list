@@ -1,7 +1,7 @@
 import React from "react";
 
 const ContactCard = (props) => {
-    const {id,name,email} = props.contact // destructure to make getting inomation easier
+    const {id,name,email} = props.contact // destructure to make getting inomation easier yes
 return(
     <div className="item">
     <div className="content" >
